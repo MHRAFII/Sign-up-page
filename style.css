@@ -1,0 +1,88 @@
+/* Add your CSS code here */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#greeting {
+  color: #666;
+}
+
+.menu {
+  margin-top: 20px;
+}
+
+#sum {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #1d58b8;
+}
+/* Add your CSS code here */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#greeting {
+  color: #666;
+}
+
+.menu {
+  margin-top: 20px;
+}
+
+#sum {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #1d58b8;
+}
