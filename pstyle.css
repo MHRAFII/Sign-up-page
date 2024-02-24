@@ -7,6 +7,11 @@ body{
 }
 
 
+.buttons:hover{
+  background-color: darkGrey;
+}
+
+
 #head{
   font-size: 10px;
   padding-top: 6px;
